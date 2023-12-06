@@ -1,17 +1,17 @@
 @charset "UTF-8";
 @font-face {
     font-family: 't-japones';
-    src: url(Fonts/go3v2.ttf);
+    src: url(go3v2.ttf);
 }
 
 @font-face {
     font-family: 'st-japones';
-    src: url(Fonts/Harukaze.ttf);
+    src: url(Harukaze.ttf);
 }
 
 @font-face {
     font-family: 'font-padrao';
-    src: url(Fonts/FrancoisOne-Regular.ttf);
+    src: url(FrancoisOne-Regular.ttf);
 }
 
 .t-japones{    
